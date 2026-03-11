@@ -1,2 +1,5 @@
 # .github
-This repository includes all relative information and important references for game design and programming
+
+This repository includes a short description about Athar 
+
+Check /profile/readme.md to view readme file.. 
