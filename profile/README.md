@@ -1,12 +1,20 @@
-## Hi there 👋
+## Hi wanderer friend 🧙 It's Moatherun!
 
+![пушинPusheenGIF](https://github.com/user-attachments/assets/3425e252-2088-4ac7-b668-c7a7abaa7a7b)
 
+### 🌟 Athar — Adventure AR Tourism Game
 
-**Here are some ideas to get you started:**
+Welcome to Athar, an Augmented Reality adventure that brings the rich history of Al‑Madinah Al‑Munawara to life. Explore historical city and uncover hidden stories through interactive AR gameplay.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+### 👩‍💻 About the team
 
+Moatherun is a group of passionate friends building playful experiences that connect people with history and place. We believe in you to let your inner child out and explore the city with excitement!
+
+### 🎮 How can you play
+
+We’re crafting the game piece by piece.
+Stay tuned for updates and early trials as the world of Athar comes to life.
+
+### 🍿 Fun facts
+
+We don’t just work together... we vibe together (/≧▽≦)/
